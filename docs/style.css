@@ -1,0 +1,19 @@
+/* Custom Markdown Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f8f9fa;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #007bff;
+}
+
+pre {
+    background: #2d2d2d;
+    color: #f8f8f8;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
