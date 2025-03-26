@@ -69,4 +69,10 @@ Developed by **Bolutife Alli** 🎉
 
 Feel free to contribute, fork, or ⭐ star this project if you find it useful! 🚀  
 
+## ❤️ Contribute to Me
+
+If you find this project helpful and wish to support me, consider buying me a coffee:
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/nujabesploo)
+
 ---
